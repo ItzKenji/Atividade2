@@ -16,6 +16,8 @@ main{
 
 }
 
+
+
 #imgTL{
 
     width: 240px;
@@ -31,13 +33,6 @@ article, section>p{
     margin-left: 18px;
     margin-right: 18px;
     
-}
-
-pre{
- 
-     margin-left: 18px;
-     margin-right: 18px;
-        
 }
 
 #titulo{
@@ -106,6 +101,20 @@ p{
     font-family: Arial, Helvetica, sans-serif;
     line-height: 1.5;
 
+
+}
+
+pre{
+
+    color: black;
+    font-size: 15px;
+    font-style: italic;
+    font-weight: 500;
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 1.5;
+    margin-left: 18px;
+    margin-right: 18px;
+    margin: auto;
 
 }
 
